@@ -1,0 +1,82 @@
+[
+  {
+    "instruction": "Review this excerpt from our student handbook for compliance with Policy IX.01: 'Our Satisfactory Progress Policy applies only to students receiving financial aid. Students must maintain a 65% grade average and are evaluated at the end of the program.'",
+    "response": "This excerpt is non-compliant with Policy IX.01 on multiple points. Per items #2 and #10, the policy must apply to ALL students in NACCAS-approved programs, not just those receiving financial aid. Additionally, the minimum acceptable grade average must be at least 70%, not 65%. Finally, per item #13, evaluations must occur at the conclusion of each established evaluation period, not just at the end of the program. These violations would likely result in a finding during an accreditation review."
+  },
+  {
+    "instruction": "Evaluate this statement for compliance with our SAP policy: 'Students who don't meet SAP requirements after the warning period will be immediately dismissed without opportunity for appeal.'",
+    "response": "This statement violates Policy IX.01. According to items #18 and #19, the policy must allow for probation status for students who don't meet SAP after a warning period if they successfully appeal. The statement fails to provide the appeal process required before dismissal. The policy must include specific appeal procedures, including valid reasons for appeal, required documentation, and how results are documented in student files."
+  },
+  {
+    "instruction": "Our institution has a 1200-clock hour program with an academic year of 900 hours. Check if our evaluation schedule is compliant: 'Evaluations at 450, 900, and 1200 clock hours.'",
+    "response": "This evaluation schedule is compliant with Policy IX.01. According to item #12(c), for a program of 1500 clock hours with a 900-hour academic year, evaluations should occur at 450, 900, 1200, and 1500 hours. Your 1200-hour program would correctly have evaluations at 450, 900, and 1200 hours, following the same principles shown in the policy examples where the first academic year is divided into two equal periods (450 and 900) and the remainder is treated appropriately."
+  },
+  {
+    "instruction": "Rate the compliance of this SAP policy statement: 'Transfer hours accepted toward program completion are counted as both attempted and completed hours for determining when the maximum time frame has been exhausted, but SAP evaluation periods are based on actual scheduled hours at our institution.'",
+    "response": "This statement is fully compliant with Policy IX.01. It directly aligns with item #26, which requires that transfer hours accepted toward the student's educational program be counted as both attempted and completed hours for maximum timeframe calculations. The statement also correctly specifies that SAP evaluation periods are based on actual contracted hours at the institution, exactly as required."
+  },
+  {
+    "instruction": "Flag any violations in this policy excerpt: 'Our institution uses a 75% cumulative grade average as minimum acceptable progress. Evaluations occur at the midpoint and end of each program, regardless of program length.'",
+    "response": "I'm flagging a violation in the evaluation schedule. While the 75% grade requirement exceeds the minimum 70% required by item #10 (compliant), the evaluation schedule violates item #12. Policy IX.01 requires specific evaluation points based on program length and academic year, not simply midpoint and endpoint evaluations. For programs longer than one academic year, multiple evaluation periods are required at specific intervals as outlined in items #12(a) and #12(b)."
+  },
+  {
+    "instruction": "Check if this statement meets our requirements: 'Students on academic probation who do not achieve minimum standards will no longer be eligible for Title IV funds, unless they successfully appeal and are placed on an academic plan.'",
+    "response": "This statement is non-compliant with Policy IX.01. According to item #20, a student who does not achieve minimum standards is no longer eligible for Title IV funds unless they are already on probation or have prevailed upon appeal resulting in probation status. The statement incorrectly suggests that students already on probation can appeal again to maintain Title IV eligibility, which contradicts the policy."
+  },
+  {
+    "instruction": "Analyze whether this policy element complies with our standards: 'A leave of absence will extend the student's contract period by the same number of days taken in the leave.'",
+    "response": "This policy element is non-compliant. According to item #8 of Policy IX.01, a leave of absence must extend the student's contract period AND maximum time frame by at least the same number of days taken in the leave of absence. The current statement only mentions extending the contract period but fails to address the extension of the maximum time frame, which is a required element."
+  },
+  {
+    "instruction": "Review this policy section for compliance: 'Our institution requires that Satisfactory Academic Progress evaluations be completed within ten business days following each evaluation period.'",
+    "response": "This section is non-compliant with Policy IX.01. According to item #13, all evaluations must be completed within seven (7) school business days following the established evaluation periods. The policy allows ten business days, which exceeds the maximum time frame allowed for completing evaluations by three days."
+  },
+  {
+    "instruction": "Evaluate this SAP policy excerpt for a 600-clock hour program: 'Evaluation periods are at 150 clock hours and 450 clock hours.'",
+    "response": "This evaluation schedule is non-compliant with Policy IX.01. According to item #12(a) and example (a) in item #12, a 600-clock hour program should have evaluation periods at 300 clock hours and 600 clock hours, dividing the program into two equal evaluation periods. The current evaluation points (150 and 450) do not represent equal divisions of the program and don't align with the requirements."
+  },
+  {
+    "instruction": "Does this statement meet our SAP policy requirements? 'Students who meet the minimum 70% grade average and 67% attendance requirements are making satisfactory progress until the next scheduled evaluation.'",
+    "response": "This statement is compliant with Policy IX.01. It aligns with items #10 and #15, which require a minimum acceptable level of progress of at least 70% cumulative grade average and specify that students who meet the minimum requirements for attendance and academic performance are considered to be making satisfactory academic progress until the next scheduled evaluation."
+  },
+  {
+    "instruction": "Assess whether this complies with our policy: 'Students re-entering the institution after withdrawal will reenter with the same progress status they had when they left, except if they were on probation, in which case they start with a clean slate.'",
+    "response": "This statement is partially non-compliant with Policy IX.01. Per item #23, students must reenter in the same progress status as when they left, with no exceptions. The statement correctly requires students to reenter with the same progress status, but then incorrectly creates an exception for students who were on probation. This exception violates the policy's requirement that ALL students reenter with the same status they had when they left."
+  },
+  {
+    "instruction": "Rate the compliance of this procedure: 'For our 1800-clock hour program with a 900-hour academic year, we conduct SAP evaluations at 450, 900, 1350, and 1800 clock hours based on scheduled hours.'",
+    "response": "This procedure is fully compliant with Policy IX.01. It perfectly matches example (d) in item #12 for an 1800-clock hour program with a 900-hour academic year. The evaluation points (450, 900, 1350, and 1800) correctly divide each academic year into two equal periods. Item #14 allows institutions to base evaluations on either actual hours completed or scheduled hours, so specifying scheduled hours is also compliant."
+  },
+  {
+    "instruction": "Check if this policy element violates any standards: 'Students are notified of any evaluation that finds them not meeting SAP requirements. The notification is delivered verbally during a counseling session.'",
+    "response": "This policy element is partially compliant. While item #21 requires the institution to notify students of any evaluation in which they are not meeting SAP, the policy does not specify the format of notification. However, best practices would suggest written documentation of such notifications to create an auditable record. While verbal notification alone isn't explicitly prohibited, it may create compliance risks if there's no documentation of the notification taking place."
+  },
+  {
+    "instruction": "Evaluate this academic policy: 'Course incompletes have no effect on the institution's satisfactory academic progress standards since we don't offer incomplete grades. All coursework must be completed before graduation.'",
+    "response": "This policy is compliant with Policy IX.01. According to item #25, if an institution has no policy regarding course incompletes, the SAP policy must state that 'course incompletes have no effect upon the institution's satisfactory academic progress standards.' The statement correctly indicates that the institution doesn't offer incomplete grades and therefore they have no effect on SAP standards."
+  },
+  {
+    "instruction": "Review this element of our draft SAP policy: 'The policy applies consistently to all full-time students, with modified requirements for part-time students.'",
+    "response": "This element is non-compliant with Policy IX.01. According to item #4, the SAP policy must be 'applied consistently to all students enrolled in a specific program and scheduled for a particular category of attendance (part-time/full-time).' While the policy can have different standards for full-time versus part-time students, it must apply consistently to all students within each attendance category. Having 'modified requirements' that aren't consistently applied violates this principle."
+  },
+  {
+    "instruction": "Assess the compliance of this statement: 'Our SAP policy is published in our catalog but is not provided to students until after enrollment.'",
+    "response": "This statement is non-compliant with Policy IX.01. Item #3 specifically requires that the SAP policy 'is provided to applicants prior to enrollment.' Publishing the policy in the catalog is good, but not providing it to applicants before they enroll violates this requirement. The institution must ensure all applicants receive and have an opportunity to review the SAP policy before enrolling."
+  },
+  {
+    "instruction": "Flag any violations in this SAP policy excerpt: 'Students who fail to meet SAP standards after a warning period may be placed on probation if they appeal successfully, but there's no requirement for an academic plan even if they cannot mathematically achieve SAP by the next evaluation.'",
+    "response": "I'm flagging a violation in this excerpt. According to item #18(d), if an institution determines that a student cannot mathematically meet SAP standards by the next evaluation period, the institution must develop an academic plan that, if followed, will ensure the student can meet SAP requirements by a specific point within the maximum timeframe. The excerpt incorrectly states there's no requirement for an academic plan, which directly contradicts this policy requirement."
+  },
+  {
+    "instruction": "Rate the compliance of this policy component: 'Our SAP policy evaluation periods for a 1000-clock hour program with a 900-hour academic year are at 450, 900, and 1000 clock hours.'",
+    "response": "This policy component is fully compliant with Policy IX.01. It exactly matches example (b) in item #12 for a 1000-clock hour program with a 900-hour academic year. The evaluation points at 450, 900, and 1000 clock hours properly divide the first academic year into two equal periods (450 and 900) and correctly treat the remaining 100 hours as a single evaluation period since it's less than half an academic year."
+  },
+  {
+    "instruction": "Evaluate this practice for compliance: 'We do not inform students how they can access their SAP evaluation results, but we maintain them in student files for our accreditor's review.'",
+    "response": "This practice is non-compliant with Policy IX.01. According to item #27, the SAP policy must describe 'how students have access to satisfactory academic progress evaluation results.' Simply maintaining the results in files for accreditation purposes without informing students how they can access their own evaluation results violates this requirement. The institution must establish and communicate a process for students to access their SAP results."
+  },
+  {
+    "instruction": "Check if this statement aligns with our policy requirements: 'The maximum time frame in which a student must complete a 600-clock hour program is 900 clock hours (150% of program length).'",
+    "response": "This statement is compliant with Policy IX.01. According to item #6, the policy must include a maximum time frame that is no longer than 150% of the NACCAS-approved length of the program. For a 600-clock hour program, 150% would be 900 clock hours, so the statement correctly establishes the maximum time frame."
+  }
+]

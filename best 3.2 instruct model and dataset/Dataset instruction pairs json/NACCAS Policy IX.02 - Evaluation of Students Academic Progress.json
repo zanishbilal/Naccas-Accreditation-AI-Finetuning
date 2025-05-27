@@ -1,0 +1,102 @@
+[
+  {
+    "instruction": "The institution's policy document includes a section titled 'Satisfactory Academic Progress Policy.'",
+    "response": "Compliant. Section 1 requires the policy to be written and clearly identified as a Satisfactory Academic Progress Policy."
+  },
+  {
+    "instruction": "The SAP policy only applies to students receiving financial aid.",
+    "response": "Non-compliant. Section 2 requires the policy to apply to every student enrolled in a NACCAS-approved program, regardless of aid."
+  },
+  {
+    "instruction": "Students receive a copy of the SAP policy after enrollment.",
+    "response": "Non-compliant. Section 3 requires that the policy be provided to applicants prior to enrollment."
+  },
+  {
+    "instruction": "SAP standards differ between part-time and full-time students within the same program.",
+    "response": "Compliant. Section 4 allows different SAP standards as long as they are applied consistently to all students in a given attendance category and program."
+  },
+  {
+    "instruction": "The SAP policy evaluates both attendance and grades at each evaluation period.",
+    "response": "Compliant. Section 5 requires both quantitative (e.g., credit hours) and qualitative (e.g., grades) measures, assessed cumulatively at designated evaluation points."
+  },
+  {
+    "instruction": "The institution allows students to take up to 200% of the program length to complete.",
+    "response": "Non-compliant. Section 6 requires the maximum time frame not exceed 150% of the approved program length in credit hours."
+  },
+  {
+    "instruction": "There is no mention of what happens if a student exceeds the maximum time frame.",
+    "response": "Non-compliant. Section 7 requires the policy to specify the status of students who exceed the maximum time frame."
+  },
+  {
+    "instruction": "The policy states that taking a leave of absence extends the maximum time frame.",
+    "response": "Compliant. Section 8 requires this: LOA must extend the contract period and maximum time frame by the number of days taken."
+  },
+  {
+    "instruction": "Academic performance is measured using grades, with project completion noted separately.",
+    "response": "Compliant. Section 9 requires qualitative factors measurable by grades, projects, or other comparable methods."
+  },
+  {
+    "instruction": "Students must maintain a 65% average to remain in good standing.",
+    "response": "Non-compliant. Section 10 sets a minimum standard of 70% (or C, or institution's higher requirement)."
+  },
+  {
+    "instruction": "The school evaluates SAP once per term but completes reviews two weeks after the term ends.",
+    "response": "Non-compliant. Section 11 requires evaluations to be completed within 7 school business days of the evaluation point."
+  },
+  {
+    "instruction": "The policy defines successful completion of credit hours as grades of 70% or higher.",
+    "response": "Compliant. Section 12 requires this calculation method for institutions participating in Title IV."
+  },
+  {
+    "instruction": "A student meeting SAP standards at the last evaluation is considered to be in good standing.",
+    "response": "Compliant. Section 13 confirms this interpretation."
+  },
+  {
+    "instruction": "The school places students directly on probation without issuing a warning first.",
+    "response": "Compliant. Section 14 allows probation without prior warning if the policy permits it."
+  },
+  {
+    "instruction": "The SAP policy does not explain how a student can regain SAP status.",
+    "response": "Non-compliant. Section 15 requires a description of how students can reestablish SAP and/or aid eligibility."
+  },
+  {
+    "instruction": "A student is placed on probation after failing SAP but without appeal or academic plan.",
+    "response": "Non-compliant. Section 16 requires appeal or an academic plan to justify probation."
+  },
+  {
+    "instruction": "Students can appeal SAP decisions, but the policy doesn't state how or under what conditions.",
+    "response": "Non-compliant. Section 17 requires the appeal process to be fully described, including reasons, documentation, and how outcomes are recorded."
+  },
+  {
+    "instruction": "The SAP policy does not mention Title IV eligibility after failing SAP.",
+    "response": "Non-compliant. Section 18 requires the policy to state that students who don't meet SAP lose Title IV eligibility unless they appeal successfully or are on probation."
+  },
+  {
+    "instruction": "Students are informed if SAP evaluations affect their financial aid status.",
+    "response": "Compliant. Section 19 requires this notification."
+  },
+  {
+    "instruction": "The policy contains no reference to leaves of absence or temporary interruptions.",
+    "response": "Non-compliant. Section 20 requires reasonable provisions addressing LOAs or temporary interruptions."
+  },
+  {
+    "instruction": "Re-entering students restart their SAP status.",
+    "response": "Non-compliant. Section 21 requires that students re-enter with the same SAP status as when they left."
+  },
+  {
+    "instruction": "The policy lists how incompletes, withdrawals, and repeats affect SAP.",
+    "response": "Compliant. Section 22 requires a clear explanation if these are applicable."
+  },
+  {
+    "instruction": "The institution doesn't offer remedial courses or incompletes, and this is stated.",
+    "response": "Compliant. Section 23 requires a statement if such elements don't apply."
+  },
+  {
+    "instruction": "Transfer credits are not counted in maximum time frame calculations.",
+    "response": "Non-compliant. Section 24 requires accepted transfer credits to count as both attempted and completed for time frame purposes."
+  },
+  {
+    "instruction": "Students can view their SAP evaluations through the student portal.",
+    "response": "Compliant. Section 25 requires that students have access to SAP evaluation results."
+  }
+]

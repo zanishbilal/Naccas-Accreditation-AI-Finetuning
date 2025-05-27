@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "A school hires a cosmetology instructor without an associate degree, but the candidate has a widely recognized professional license, letters of recommendation from previous employers, and a published portfolio.",
+    "response": "Compliant. Exceptions to the degree requirement are allowed if the instructor has exceptional professional experience and documentation."
+  },
+  {
+    "instruction": "The syllabus for a course includes course title, description, prerequisites, credit hours, learning objectives, instructional methods, assignments, and assessment methods.",
+    "response": "Compliant. A course syllabus must include all required components to meet instructional quality standards."
+  },
+  {
+    "instruction": "A program uses 15 clock hours of lecture to award 1 semester credit hour.",
+    "response": "Compliant. 15 clock hours = 1 semester credit hour for lecture is the correct conversion."
+  },
+  {
+    "instruction": "A clinical externship has a signed agreement with the externship site, outlines specific learning objectives, and includes evaluation criteria under faculty supervision.",
+    "response": "Compliant. All externship/internship arrangements must have a written agreement with learning and evaluation criteria."
+  },
+  {
+    "instruction": "The institution adjusts student/teacher ratios in labs based on the amount of equipment available and the amount of direct instructor supervision needed.",
+    "response": "Compliant. Student/teacher ratio must be determined using several factors, including supervision and lab equipment availability."
+  },
+  {
+    "instruction": "A school assigns an instructor to an associate degree program who has no degree and no documented industry experience.",
+    "response": "Non-compliant. Instructor exceptions must be justified with documented professional achievements or credentials."
+  },
+  {
+    "instruction": "A course syllabus only includes the course title, description, and required textbook, and was last updated five years ago.",
+    "response": "Non-compliant. The syllabus must include all required elements and be current to reflect industry trends."
+  },
+  {
+    "instruction": "The school awards 1 quarter credit hour for 15 clock hours of lab.",
+    "response": "Non-compliant. The correct conversion is 20 clock hours of lab = 1 quarter credit hour."
+  },
+  {
+    "instruction": "An externship program begins without a written agreement between the institution and the externship site.",
+    "response": "Non-compliant. A written agreement is required before students begin externships."
+  },
+  {
+    "instruction": "The student/teacher ratio is based only on enrollment numbers, without regard to skill level or instructional methods.",
+    "response": "Non-compliant. Multiple instructional factors must be considered when determining student/teacher ratios."
+  }
+]

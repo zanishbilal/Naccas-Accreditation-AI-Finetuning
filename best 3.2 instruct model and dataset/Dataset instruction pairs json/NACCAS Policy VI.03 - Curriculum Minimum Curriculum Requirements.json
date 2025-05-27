@@ -1,0 +1,82 @@
+[
+  {
+    "instruction": "The cosmetology program omits anatomy and physiology from its curriculum.",
+    "response": "Non-compliant. Anatomy and physiology is a required science component for the cosmetology curriculum."
+  },
+  {
+    "instruction": "The barbering curriculum includes infection control, electricity, and shaving techniques.",
+    "response": "Compliant. These components are part of the required sciences and hair techniques, including shaving, in the barber curriculum."
+  },
+  {
+    "instruction": "The massage therapy program does not include CPR or First Aid in its science curriculum.",
+    "response": "Non-compliant. CPR and First Aid are required science components for massage therapy."
+  },
+  {
+    "instruction": "The esthetics program includes makeup application, hair removal, and contraindications.",
+    "response": "Compliant. These are required principles and techniques of skin for the esthetics curriculum."
+  },
+  {
+    "instruction": "The manicuring program covers electricity, artificial nails, and record keeping.",
+    "response": "Compliant. All listed items are required parts of the manicuring curriculum."
+  },
+  {
+    "instruction": "The electrology program does not teach galvanic current use or modalities.",
+    "response": "Non-compliant. The use of electrical currents and modalities (Thermolysis, Galvanic, Blend) are required components in electrology."
+  },
+  {
+    "instruction": "An instructor training course omits classroom management and test development.",
+    "response": "Non-compliant. Classroom management and test development are essential components of instructor training."
+  },
+  {
+    "instruction": "The massage therapy program includes kinesiology, energetic techniques, and pathology.",
+    "response": "Compliant. These are required science and application components for massage therapy."
+  },
+  {
+    "instruction": "The barber program includes business basics, income reporting, and scalp treatments.",
+    "response": "Compliant. These are all required under career/employment info and hair techniques in barbering."
+  },
+  {
+    "instruction": "A hairdressing-only program excludes skin care, makeup, and nail services.",
+    "response": "Compliant. Skin and nail components are not required for hairdressing-only programs."
+  },
+  {
+    "instruction": "The electrology curriculum includes anatomy, structure of hair, and use of electrical currents.",
+    "response": "Compliant. These are required components of the electrology curriculum."
+  },
+  {
+    "instruction": "The cosmetology program includes professional ethics, communication skills, and licensing info.",
+    "response": "Compliant. These are required under career and employment information in cosmetology."
+  },
+  {
+    "instruction": "The instructor training program includes audio-visual aids and academic advising.",
+    "response": "Compliant. These are required components under course development and academic advising."
+  },
+  {
+    "instruction": "The esthetics curriculum does not include infection control or chemistry.",
+    "response": "Non-compliant. Both infection control and chemistry are required science topics for esthetics."
+  },
+  {
+    "instruction": "The manicuring curriculum includes structure and disorders of nails and chemical safety.",
+    "response": "Compliant. These are required under sciences and nail techniques in manicuring."
+  },
+  {
+    "instruction": "A barbering program does not include hair coloring or chemical texture services.",
+    "response": "Non-compliant. Both are required principles and techniques for hair in barber curriculum."
+  },
+  {
+    "instruction": "The massage program uses a customized outline with lesson plans aligned to course content.",
+    "response": "Compliant. Each institution must develop course outlines and lesson plans aligned with curriculum requirements."
+  },
+  {
+    "instruction": "The cosmetology program replaces scalp treatments with additional hairstyling modules.",
+    "response": "Non-compliant. Scalp and hair treatments are a required component and cannot be replaced."
+  },
+  {
+    "instruction": "The instructor training curriculum includes evaluating student performance and lesson planning.",
+    "response": "Compliant. These are required under academic advising and program development."
+  },
+  {
+    "instruction": "The esthetics curriculum omits state laws and regulations and compensation methods.",
+    "response": "Non-compliant. These are part of the required career and employment information section in esthetics."
+  }
+]

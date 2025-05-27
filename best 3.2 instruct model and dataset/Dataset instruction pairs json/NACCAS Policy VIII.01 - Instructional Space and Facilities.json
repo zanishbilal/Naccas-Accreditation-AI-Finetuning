@@ -1,0 +1,82 @@
+[
+  {
+    "instruction": "A school destroyed by a wildfire sends a detailed disaster report and business plan to NACCAS within 30 days.",
+    "response": "Compliant. Institutions must submit a disaster recovery plan and timeline within 30 calendar days of the event."
+  },
+  {
+    "instruction": "After a hurricane damages a school, the administration immediately notifies the NACCAS Executive Director and the U.S. Department of Education.",
+    "response": "Compliant. Immediate notification to both NACCAS and the Department of Education is required after a disaster."
+  },
+  {
+    "instruction": "The school submits a floor plan and square footage layout of its temporary facility in its recovery plan.",
+    "response": "Compliant. A scaled floor plan with square footage is required in the submitted disaster plan."
+  },
+  {
+    "instruction": "A temporary facility is opened, and the school provides valid permits and certificates proving the building is safe and approved for educational use.",
+    "response": "Compliant. Schools must prove state approval and occupancy safety of any temporary location."
+  },
+  {
+    "instruction": "An updated organizational chart and staff job descriptions are included in the submitted disaster plan due to changes in personnel.",
+    "response": "Compliant. Staff changes must be documented with organizational charts and job descriptions."
+  },
+  {
+    "instruction": "The institution's disaster plan includes attendance and probation reports generated regularly.",
+    "response": "Compliant. The plan must describe scheduled reporting processes (e.g., attendance, enrollment)."
+  },
+  {
+    "instruction": "A business plan with revenue, expenses, startup costs, and projected cash flow is submitted as part of the disaster plan.",
+    "response": "Compliant. A written financial plan is a required component of the disaster submission."
+  },
+  {
+    "instruction": "The school provides an accurate timeline for full compliance, including the date of return to permanent operations.",
+    "response": "Compliant. A projected compliance timeline is required by NACCAS standards."
+  },
+  {
+    "instruction": "The school includes a list of the courses it plans to offer during the temporary operation.",
+    "response": "Compliant. Schools must list all programs and courses they intend to offer while temporarily non-compliant."
+  },
+  {
+    "instruction": "After 6 months in a temporary location, the school undergoes a partial team visit at no cost.",
+    "response": "Compliant. A partial visit is required at 6 months to verify continued operations."
+  },
+  {
+    "instruction": "A school experiences an earthquake and does not notify NACCAS until two months later.",
+    "response": "Non-compliant. Immediate notification of any disaster-related disruptions is required."
+  },
+  {
+    "instruction": "A school suspends instruction for five days due to storm damage, but those days were not listed in the school catalog. The school does not report this to NACCAS.",
+    "response": "Non-compliant. Unscheduled closures must be reported to NACCAS."
+  },
+  {
+    "instruction": "The school plans to move permanently after a disaster but does not submit a Change of Location Application.",
+    "response": "Non-compliant. A Change of Location Application is required when abandoning the original facility."
+  },
+  {
+    "instruction": "The school sends a brief email to NACCAS stating it had a flood, without including any plan or timeline for resuming operations.",
+    "response": "Non-compliant. A comprehensive written plan and timeline must be submitted within 30 days."
+  },
+  {
+    "instruction": "A school continues operating in a temporary building without providing proof of state approval or safety inspections.",
+    "response": "Non-compliant. Schools must submit evidence of safety and state approval for any instructional space."
+  },
+  {
+    "instruction": "The disaster recovery plan omits projections of returning and new student enrollments.",
+    "response": "Non-compliant. Enrollment projections before and after the disaster must be included in the plan."
+  },
+  {
+    "instruction": "The institution ignores the requirement to submit job descriptions for newly hired administrative staff.",
+    "response": "Non-compliant. All job descriptions for new personnel must be submitted as part of the plan."
+  },
+  {
+    "instruction": "No documentation is submitted for maintaining student records from the affected location.",
+    "response": "Non-compliant. The plan must detail how student records will be maintained post-disaster."
+  },
+  {
+    "instruction": "The institution remains in a temporary facility for nine months and refuses to pay for the required full team visit.",
+    "response": "Non-compliant. A full team visit at the institution's expense is required after nine months in temporary status."
+  },
+  {
+    "instruction": "The disaster plan omits the description of reports the school will generate, such as attendance or enrollment tracking.",
+    "response": "Non-compliant. The disaster plan must include descriptions of all scheduled internal reports."
+  }
+]

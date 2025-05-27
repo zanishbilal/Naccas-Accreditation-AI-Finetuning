@@ -1,0 +1,102 @@
+[
+  {
+    "instruction": "Evaluate this enrollment: \"Student paid $250 before signing any enrollment agreement.\"",
+    "response": "Non-compliant. The institution may only collect a non-refundable application fee not exceeding $100 before an enrollment agreement is signed, per Policy IV.03."
+  },
+  {
+    "instruction": "Review this case: \"Contract includes tuition and fees but omits book and supply costs.\"",
+    "response": "Non-compliant. Section 6(b) requires that the actual cost to the student for books and supplies be listed separately."
+  },
+  {
+    "instruction": "Determine compliance: \"Enrollment agreement includes the refund policy and catalog was given to student prior to signing.\"",
+    "response": "Compliant. Sections 11 and the preamble both require the refund policy to be clearly stated and the catalog to be made available before the agreement is signed."
+  },
+  {
+    "instruction": "Analyze: \"Student's contract states program name, duration in hours, and cost. However, it does not mention scheduled completion date.\"",
+    "response": "Non-compliant. Section 8 requires a calculated completion date to be disclosed on the enrollment agreement."
+  },
+  {
+    "instruction": "Review this contract: \"Enrollment agreement signed by student and school, but no acknowledgment statement appears.\"",
+    "response": "Non-compliant. Section 14 requires an acknowledgment that both parties have read and received the agreement."
+  },
+  {
+    "instruction": "Determine if this process is compliant: \"Enrollment agreement is labeled 'Enrollment Contract' and includes required signatures.\"",
+    "response": "Compliant. Section 1 requires identification as a contract or enrollment agreement, and Sections 15–16 require appropriate signatures."
+  },
+  {
+    "instruction": "Evaluate: \"Student was given a copy of the agreement only after beginning classes.\"",
+    "response": "Non-compliant. The agreement must be executed and a copy furnished to the student before starting class, per Policy IV.03."
+  },
+  {
+    "instruction": "Check this enrollment: \"Student signs agreement in Spanish; program is delivered in English.\"",
+    "response": "Non-compliant. Section 19 requires that the contract be in the language in which the program will be taught."
+  },
+  {
+    "instruction": "Determine compliance: \"Enrollment agreement includes estimated completion time, but not the number of contracted hours.\"",
+    "response": "Non-compliant. Section 5(c) requires the agreement to state the contracted clock hours, credit hours, or competencies."
+  },
+  {
+    "instruction": "Review: \"A part-time student's schedule lists days of attendance but not weekly clock hours.\"",
+    "response": "Non-compliant. Section 9 requires identification of part-time or full-time status and the actual hours per week."
+  },
+  {
+    "instruction": "Assess: \"Contract includes notice that early completion may affect financial aid for a clock-hour-based program.\"",
+    "response": "Compliant. Section 6(f) requires disclosure that early completion may lead to financial aid recalculations and potential liability."
+  },
+  {
+    "instruction": "Review: \"Contract states tuition and fee totals, but does not break out locker or lab fees.\"",
+    "response": "Non-compliant. Section 6(c) requires fees to be separately identified, including lab, locker, and activity fees."
+  },
+  {
+    "instruction": "Evaluate: \"Enrollment agreement clearly states no employment guarantee and briefly describes job placement support.\"",
+    "response": "Compliant. Section 13 requires a statement that employment is not guaranteed and a description of employment assistance offered."
+  },
+  {
+    "instruction": "Determine if this is compliant: \"Student paid a $95 application fee before signing; the agreement was then signed and classes began.\"",
+    "response": "Compliant. A non-refundable application fee up to $100 may be collected prior to signing the agreement, per Policy IV.03."
+  },
+  {
+    "instruction": "Assess: \"Student contract includes an administrative termination fee of $175.\"",
+    "response": "Non-compliant. Section 10 caps any administrative termination fee at $150."
+  },
+  {
+    "instruction": "Review this situation: \"The school changes the tuition mid-term and notifies the student verbally.\"",
+    "response": "Non-compliant. Per Policy IV.03, any change to enrollment agreement terms must be acknowledged in writing by initial or signature from both parties."
+  },
+  {
+    "instruction": "Analyze: \"Student's contract includes name, institution name, program, and start date but omits refund policy.\"",
+    "response": "Non-compliant. Section 11 requires a refund policy that complies with NACCAS and applicable state or federal requirements."
+  },
+  {
+    "instruction": "Check this agreement: \"Includes total tuition and fees but omits payment terms.\"",
+    "response": "Non-compliant. Section 6(e) requires that the methods and terms of payment be disclosed in the agreement."
+  },
+  {
+    "instruction": "Evaluate compliance: \"Enrollment agreement includes cost and start date but no graduation requirements are listed.\"",
+    "response": "Non-compliant. Section 12 requires graduation requirements, including any special conditions, to be included in the agreement."
+  },
+  {
+    "instruction": "Determine if this file is compliant: \"Contract includes full itemization of tuition, fees, and books; contract is labeled as a 'Student Agreement.'\"",
+    "response": "Compliant. Section 1 allows flexibility in terminology as long as the contract clearly represents the terms of the agreement."
+  },
+  {
+    "instruction": "Review this contract: \"Agreement includes all required elements, but student signature is dated after classes began.\"",
+    "response": "Non-compliant. Enrollment agreements must be fully executed and provided to the student prior to the first day of class."
+  },
+  {
+    "instruction": "Check this file: \"The enrollment agreement contains all necessary items but is not submitted with the ISS.\"",
+    "response": "Non-compliant. The checklist and enrollment agreement must be included with the Institutional Self-Study submission."
+  },
+  {
+    "instruction": "Evaluate this case: \"Enrollment agreement is missing the verification of student identity fee for an online program.\"",
+    "response": "Non-compliant. Section 6(g) requires disclosure of projected additional charges associated with identity verification for distance-learning students."
+  },
+  {
+    "instruction": "Review: \"Student agreement contains the name of the program but does not distinguish between multiple programs with the same title.\"",
+    "response": "Non-compliant. Section 4 requires the specific program of enrollment to be clearly identified if the school offers multiple programs with similar names."
+  },
+  {
+    "instruction": "Assess this file: \"The contract lists a tuition refund policy, but the language is vague and does not refer to state requirements.\"",
+    "response": "Non-compliant. Section 11 mandates that the refund policy comply with NACCAS, state, and federal requirements, and must be clearly stated."
+  }
+]

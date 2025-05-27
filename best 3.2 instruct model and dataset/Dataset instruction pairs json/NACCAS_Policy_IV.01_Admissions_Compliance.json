@@ -1,0 +1,82 @@
+[
+  {
+    "instruction": "Evaluate this student's admission file for compliance: \u201cApplicant submitted a foreign diploma and self-translated it, no agency verification provided.\u201d",
+    "response": "Non-compliant. Section IV.01(4) requires that foreign diplomas be verified by an external agency qualified to translate and confirm equivalency to a U.S. high school diploma. Self-translation is not permitted."
+  },
+  {
+    "instruction": "Check this student's documentation: \u201cGED certificate, valid driver\u2019s license, and completed enrollment agreement on file.\u201d",
+    "response": "Compliant. Section High School Diploma/GED(1) recognizes a GED as equivalent to a high school diploma, and proof of age is validated by the driver\u2019s license. All basic requirements are met."
+  },
+  {
+    "instruction": "Assess this scenario: \u201cThe school admits a student who completed a 2-year college program but provides no transcript.\u201d",
+    "response": "Non-compliant. Section High School Diploma/GED(3) allows for admission with proof of a two-year program, but documentation (college transcript) is mandatory to confirm eligibility."
+  },
+  {
+    "instruction": "Review this case: \u201cA homeschooled student is admitted with a parental affidavit and no state credential in a state that issues one.\u201d",
+    "response": "Non-compliant. According to the Homeschooling section, if a state issues a homeschool credential, it must be obtained for enrollment. A parental affidavit alone is insufficient."
+  },
+  {
+    "instruction": "Rate the compliance of this process: \u201cSchool admits students under a government-funded training agreement, no direct enrollment contracts exist.\u201d",
+    "response": "Non-compliant. Training Agreement Rule (1) mandates that the institution must have at least one student contracted under its own enrollment agreement."
+  },
+  {
+    "instruction": "Check for violations: \u201cAdmissions checklist includes only age and interview; no diploma, GED, or transcript is required.\u201d",
+    "response": "Non-compliant. Section IV.01 requires educational verification via diploma, GED, or transcript. An interview and age verification alone do not satisfy admission criteria."
+  },
+  {
+    "instruction": "Explain the compliance status: \u201cThe school has a signed training agreement with a workforce program and lists 20 students, with no contract per student.\u201d",
+    "response": "Compliant. Section Training Agreements(3) permits a single agreement covering multiple students. However, a copy of the agreement and list of enrolled students must be retained per Training Agreements(4)."
+  },
+  {
+    "instruction": "Determine compliance: \u201cA student enrolled without a diploma but later completed 225 clock hours successfully.\u201d",
+    "response": "Compliant under Ability-to-Benefit. As per the Ability-to-Benefit section, successful completion of 225 hours post-enrollment can serve in lieu of testing."
+  },
+  {
+    "instruction": "Assess this file: \u201cStudent submitted a high school transcript indicating completion and is no longer enrolled in high school.\u201d",
+    "response": "Compliant. Per Section IV.01(1), a transcript showing high school completion satisfies the diploma requirement."
+  },
+  {
+    "instruction": "Check this statement: \u201cThe admissions officer accepted a Facebook screenshot as proof of age.\u201d",
+    "response": "Non-compliant. Proof of Age section specifies acceptable official documents (e.g., birth certificate, government ID). A social media screenshot is not valid evidence."
+  },
+  {
+    "instruction": "Explain non-compliance: \u201cStudent with foreign diploma enrolled before evaluation could be completed.\u201d",
+    "response": "Non-compliant. Section IV.01(4) requires foreign diploma verification before enrollment. Post-enrollment evaluation is not allowed."
+  },
+  {
+    "instruction": "Review this for compliance: \u201cThe student provided a birth certificate and a certificate of state-authorized equivalency exam.\u201d",
+    "response": "Compliant. The birth certificate confirms age, and the equivalency exam is an accepted substitute for a high school diploma per High School Diploma/GED(2)."
+  },
+  {
+    "instruction": "Flag any issues in this case: \u201cTraining agreement includes grade tracking, but school has no copy of it on file.\u201d",
+    "response": "Non-compliant. Training Agreement section (4) requires that institutions maintain a copy of the agreement, including the student list and institutional obligations."
+  },
+  {
+    "instruction": "Evaluate: \u201cA student provides proof of passing an ability-to-benefit test but no details about the test administrator.\u201d",
+    "response": "Non-compliant. The Ability-to-Benefit section requires documentation of the test, the administrator\u2019s name, address, and ID assigned by the test publisher or state."
+  },
+  {
+    "instruction": "Analyze compliance: \u201cAdmissions policy includes eligibility criteria but isn\u2019t applied consistently\u2014some students admitted without proper documentation.\u201d",
+    "response": "Non-compliant. Section IV.01 requires uniform application of the admissions policy and documentation retention in student files. Inconsistency violates both procedural and documentation standards."
+  },
+  {
+    "instruction": "Review this situation: \u201cAn associate\u2019s degree transcript is provided as proof for a student entering a barbering program.\u201d",
+    "response": "Compliant. High School Diploma/GED(4) allows admission based on proof of an associate\u2019s degree, as demonstrated by the transcript."
+  },
+  {
+    "instruction": "Rate this process: \u201cThe school accepts homeschoolers but never checks whether their education meets state home school law.\u201d",
+    "response": "Non-compliant. Homeschooling admission is allowed only if the education is recognized by state law as a home or private school per Homeschooling section."
+  },
+  {
+    "instruction": "Evaluate this statement: \u201cA student presented a college acceptance letter as evidence of high school completion.\u201d",
+    "response": "Non-compliant. A college acceptance letter is not listed among accepted proofs in Section IV.01. A transcript or diploma is required."
+  },
+  {
+    "instruction": "Check this compliance case: \u201cA training agreement fails to define the school's responsibility for grading and attendance tracking.\u201d",
+    "response": "Non-compliant. Training Agreements(5) requires the agreement to clearly outline institutional obligations, including grading and attendance."
+  },
+  {
+    "instruction": "Determine the compliance status: \u201cStudent was admitted with a \u2018certificate of attainment\u2019 and is not applying for Title IV aid.\u201d",
+    "response": "Compliant. Section IV.01(1) allows the use of a certificate of attainment as long as the student is not seeking Title IV financial aid."
+  }
+]

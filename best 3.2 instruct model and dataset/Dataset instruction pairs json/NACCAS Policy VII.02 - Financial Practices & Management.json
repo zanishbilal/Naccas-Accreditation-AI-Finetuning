@@ -1,0 +1,22 @@
+[
+  {
+    "instruction": "A school charges a student for extra instruction even though the student still has allowable absences remaining.",
+    "response": "Non-compliant. Extra instructional charges may only apply after all allowed absences in the contract have been exhausted."
+  },
+  {
+    "instruction": "The enrollment agreement specifies a $10 fee per clock hour for extra instruction beyond the contract period.",
+    "response": "Compliant. The amount charged per unit of instruction must be clearly stated in the enrollment agreement."
+  },
+  {
+    "instruction": "The school collects payment for extra instruction before the student reaches the contract completion date, without any written acknowledgment from the student.",
+    "response": "Non-compliant. If fees are collected before the contract end date, the school must have written acknowledgment from the student."
+  },
+  {
+    "instruction": "A student withdraws before completing the contract, and had already paid for extra instruction time. The school keeps the extra instruction fees.",
+    "response": "Non-compliant. All monies received for extra instruction prior to contract completion must be refunded if the student terminates."
+  },
+  {
+    "instruction": "Upon enrollment, the school provides a breakdown of tuition, fees, and extra instruction charges.",
+    "response": "Compliant. The school must provide complete tuition and fee information, including extra instructional charges, upon enrollment."
+  }
+]

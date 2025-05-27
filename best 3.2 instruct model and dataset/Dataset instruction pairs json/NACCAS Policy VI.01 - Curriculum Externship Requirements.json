@@ -1,0 +1,82 @@
+[
+  {
+    "instruction": "The school offers an externship but does not have any formal written agreement with the facility.",
+    "response": "Non-compliant. A written agreement between the institution and each externship service facility is required. (Requirement 1)"
+  },
+  {
+    "instruction": "Students are placed in a licensed salon for externship in a state that mandates licensure.",
+    "response": "Compliant. If state licensing is required, the facility must be licensed by the state. (Requirement 2)"
+  },
+  {
+    "instruction": "The externship facility is unlicensed but holds a valid business license. The state does not require a special license for this type of service.",
+    "response": "Compliant. If no state license is required, the facility must have a business license to operate. (Requirement 3)"
+  },
+  {
+    "instruction": "Supervisors in the externship hold state-required licenses in the relevant field.",
+    "response": "Compliant. Supervisors must hold any required certification or license. (Requirement 4a)"
+  },
+  {
+    "instruction": "The externship supervisor does not have a license (not required by the state) but has 6 months of experience.",
+    "response": "Non-compliant. Supervisors must have at least one year of experience if no license is required. (Requirement 4b)"
+  },
+  {
+    "instruction": "The externship component accounts for 5% of the program's total hours.",
+    "response": "Compliant. Students may not accrue more than 10% of the program in externship, unless a health/wellness program with an approved exception. (Requirement 5)"
+  },
+  {
+    "instruction": "The school places students in an externship located in another state but does not check for state authorization.",
+    "response": "Non-compliant. If the externship occurs out of state, state authorization must be obtained, if applicable. (Requirement 5)"
+  },
+  {
+    "instruction": "Students are randomly selected for externship opportunities without written eligibility criteria.",
+    "response": "Non-compliant. The institution must select students based on written criteria. (Requirement 6)"
+  },
+  {
+    "instruction": "The school evaluates each student's academic performance before approving them for externship.",
+    "response": "Compliant. Students must meet written selection criteria to participate. (Requirement 6)"
+  },
+  {
+    "instruction": "The school allows students into externship without requiring them to pass a written or practical exam.",
+    "response": "Non-compliant. Students must pass a comprehensive written and practical exam to qualify. (Requirement 7)"
+  },
+  {
+    "instruction": "Students complete a written and practical exam demonstrating readiness before externship.",
+    "response": "Compliant. This satisfies the requirement to establish student qualification. (Requirement 7)"
+  },
+  {
+    "instruction": "The externship program has no formal written training plan or goals.",
+    "response": "Non-compliant. A written training plan and goals must outline expected applications and experiences. (Requirement 8)"
+  },
+  {
+    "instruction": "The school prepares a document listing specific objectives for the externship, tailored to each program.",
+    "response": "Compliant. Training plans must specify particular applications and experiences to be gained. (Requirement 8)"
+  },
+  {
+    "instruction": "A school official visits externship sites quarterly to ensure compliance and observe student activity.",
+    "response": "Compliant. Periodic site visits by an institution official are required. (Requirement 9)"
+  },
+  {
+    "instruction": "The school does not follow up with externship sites once students are placed.",
+    "response": "Non-compliant. The institution must make periodic visits to verify requirements are being met. (Requirement 9)"
+  },
+  {
+    "instruction": "Students complete externships, but the service facility does not provide any evaluation of their performance.",
+    "response": "Non-compliant. The establishment must evaluate the student's performance during the externship. (Requirement 10)"
+  },
+  {
+    "instruction": "Service facilities submit evaluation forms showing student achievement of training objectives.",
+    "response": "Compliant. Students must be evaluated with respect to their attainment of objectives. (Requirement 11)"
+  },
+  {
+    "instruction": "Facilities do not certify student attendance or hours earned during the externship.",
+    "response": "Non-compliant. A certificate of attendance and training must be completed by the establishment. (Requirement 12)"
+  },
+  {
+    "instruction": "Externship hours certified by the facility are not counted by the school toward course completion.",
+    "response": "Non-compliant. Institutions must recognize certified externship training (hours/competencies/credits) toward course completion. (Requirement 13)"
+  },
+  {
+    "instruction": "The school counts hours certified by the externship facility toward graduation requirements.",
+    "response": "Compliant. Schools must recognize verified externship training toward the student's program completion. (Requirement 13)"
+  }
+]

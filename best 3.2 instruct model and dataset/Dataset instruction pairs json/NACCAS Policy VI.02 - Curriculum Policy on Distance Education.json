@@ -1,0 +1,82 @@
+[
+  {
+    "instruction": "The school uses distance education for clinical training involving live model procedures.",
+    "response": "Non-compliant. Distance education cannot be used for clinical instruction involving live models or clients. (Requirement 1)"
+  },
+  {
+    "instruction": "The school's distance education includes direct instruction and provides feedback on student work.",
+    "response": "Compliant. Substantive interaction requires at least two elements, such as direct instruction and feedback. (Requirement 2a)"
+  },
+  {
+    "instruction": "Students watch prerecorded videos and complete assignments without interacting with instructors.",
+    "response": "Non-compliant. Distance education must include substantive and regular interaction between students and instructors. (Requirement 2)"
+  },
+  {
+    "instruction": "Instructors schedule weekly Q&A sessions and provide regular discussion forums.",
+    "response": "Compliant. These are forms of regular and substantive interaction required for distance education. (Requirements 2a, 2b)"
+  },
+  {
+    "instruction": "The institution tracks student login times but does not assess engagement or interaction.",
+    "response": "Non-compliant. Instructors must monitor academic engagement and ensure substantive interaction. (Requirement 2b.ii)"
+  },
+  {
+    "instruction": "The program is clock-hour based and uses asynchronous distance education without validating seat time.",
+    "response": "Non-compliant. Asynchronous instruction in clock hour programs must be validated for actual seat time. (Requirement 2c)"
+  },
+  {
+    "instruction": "Each distance education student is assessed in-person monthly by a qualified instructor.",
+    "response": "Compliant. Institutions must conduct monthly on-campus assessments of distance education performance. (Requirement 3)"
+  },
+  {
+    "instruction": "The school only assesses distance education students online without bringing them to campus.",
+    "response": "Non-compliant. A qualified instructor must assess students in person on campus at least once monthly. (Requirement 3)"
+  },
+  {
+    "instruction": "After completing all program requirements, a student takes both final written and practical exams on campus.",
+    "response": "Compliant. A comprehensive academic and practical final exam must be administered on-campus. (Requirement 4)"
+  },
+  {
+    "instruction": "The school conducts final exams online for convenience.",
+    "response": "Non-compliant. Final exams must be administered on-campus. (Requirement 4)"
+  },
+  {
+    "instruction": "A student's transcript notes the portions of the program completed through distance education.",
+    "response": "Compliant. All transcripts or documents must identify the distance education component. (Requirement 5)"
+  },
+  {
+    "instruction": "The student's academic transcript does not mention any distance education.",
+    "response": "Non-compliant. Transcripts must indicate distance education components. (Requirement 5)"
+  },
+  {
+    "instruction": "Students sign a form during enrollment acknowledging that distance education may not be accepted in all states.",
+    "response": "Compliant. A signed and dated disclaimer must be provided and kept in the student file. (Requirement 6)"
+  },
+  {
+    "instruction": "The school verbally informs students about distance education limitations without documentation.",
+    "response": "Non-compliant. The disclaimer must be signed, dated, and maintained in the student's file. (Requirement 6)"
+  },
+  {
+    "instruction": "Instructors provide direct feedback on weekly student submissions and respond to content questions.",
+    "response": "Compliant. This satisfies the requirement for substantive interaction. (Requirement 2a.ii & 2a.iii)"
+  },
+  {
+    "instruction": "No live discussion or scheduled interaction is provided in the distance education program.",
+    "response": "Non-compliant. There must be scheduled opportunities for interaction and ongoing monitoring by instructors. (Requirement 2b)"
+  },
+  {
+    "instruction": "Distance education courses are delivered asynchronously but include verified seat time calculations for compliance.",
+    "response": "Compliant. Asynchronous delivery must be validated for actual student seat time. (Requirement 2c)"
+  },
+  {
+    "instruction": "Students in distance education have not been assessed on-campus in over two months.",
+    "response": "Non-compliant. A monthly on-campus assessment by a qualified instructor is required. (Requirement 3)"
+  },
+  {
+    "instruction": "The school uses recorded lectures and automatically graded quizzes but does not meet with students.",
+    "response": "Non-compliant. Substantive interaction is not optional—must include active engagement between student and instructor. (Requirement 2)"
+  },
+  {
+    "instruction": "The institution complies with local, state, and federal regulations and incorporates NACCAS interaction standards.",
+    "response": "Compliant. Distance education policies must meet all applicable legal and NACCAS requirements. (Intro paragraph)"
+  }
+]

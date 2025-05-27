@@ -1,0 +1,62 @@
+[
+  {
+    "instruction": "Check this web page for compliance: 'Our massage clinic is operated by licensed therapists who guarantee results.'",
+    "response": "This statement is non-compliant. According to the advertising policy, practical laboratories for massage must be identified as student-training areas and must not be represented as licensed professionals\u2019 clinics (General Advertising Rule 2). Using the phrase 'licensed therapists who guarantee results' misleads the public and violates this requirement."
+  },
+  {
+    "instruction": "Flag violations in this ad: 'Enroll now and receive a $500 scholarship \u2014 offer only for first 10 students!'",
+    "response": "This ad violates incentive advertising rules. Section 3(c) requires all terms and conditions of an incentive to be disclosed in writing, and Section 3(b) mandates that incentives be equally available to all students during the promotion period. Limiting to the 'first 10 students' without full disclosure is misleading and non-compliant."
+  },
+  {
+    "instruction": "Rate the compliance of this process: 'Each year, the school promotes a new pilot course via email, clearly labeled 'pilot course \u2014 pending accreditation.''",
+    "response": "The process is compliant. Per the policy on Advertising of School Programs, an institution may advertise one unaccredited pilot course per year, provided it is clearly identified as such. This email accurately states the course is 'pending accreditation,' satisfying the policy."
+  },
+  {
+    "instruction": "Check compliance of this school name usage: 'CUT Salon & Spa \u2013 A Cosmetology Training Academy'",
+    "response": "The usage is compliant. The name includes words like 'salon' and 'spa,' which are allowed as long as the school is clearly identified as an educational institution (e.g., 'Academy,' 'School') per Advertising of School Name rule 5."
+  },
+  {
+    "instruction": "Review this claim for policy compliance: 'Our graduation rate is 98% \u2014 better than any school in the state!'",
+    "response": "This claim is non-compliant. The policy requires that quantitative claims and comparisons be backed by current data (General Advertising Rule 1). Without data on file and publicly available to substantiate the comparison, this claim violates the requirement."
+  },
+  {
+    "instruction": "Explain whether this use of accreditation status is compliant: 'Accredited by NACCAS \u2013 the gold standard in cosmetology.'",
+    "response": "This is partially compliant. While the phrase 'Accredited by NACCAS' is permitted under Advertising of Accreditation Rule 2(c), the phrase 'gold standard in cosmetology' is an unauthorized qualitative claim that could mislead. Such comparisons must be substantiated or omitted."
+  },
+  {
+    "instruction": "Evaluate this incentive program: 'Get a free toolkit valued at $100 if you enroll by May 30. Full terms available upon request.'",
+    "response": "This is borderline non-compliant. The policy (Section 3) requires that terms be provided in writing before any student action and be available without needing to request them. Saying 'upon request' shifts the burden to the student, which is insufficient under the transparency requirement."
+  },
+  {
+    "instruction": "Explain why this practice is non-compliant: 'A school that lost its accreditation advertises: \u2018Re-applying for NACCAS accreditation.\u2019'",
+    "response": "This is non-compliant. According to the policy, institutions denied or withdrawn from accreditation may not use their candidacy or application status in any way that implies accreditation. The phrase 're-applying for accreditation' implies a status the school no longer holds."
+  },
+  {
+    "instruction": "Check this URL and homepage for compliance: URL: www.glamschoolny.com; Homepage title: 'Glam School \u2013 Accredited by NACCAS'",
+    "response": "This is compliant. The policy permits use of a custom URL (Section 8), as long as the homepage clearly identifies the school with its approved name and accreditation status, which is done here."
+  },
+  {
+    "instruction": "Review this name change: 'Cosmetology Unique Training Academy' starts using 'CUT Academy' in ads.",
+    "response": "This usage is compliant. Per the policy on shortened names (Advertising of School Name, rule 2), 'CUT Academy' is acceptable if the school remains clearly identifiable. The example in the policy supports this exact case."
+  },
+  {
+    "instruction": "Rate the compliance of this print ad: 'Accredited by NACCAS. Graduate in 6 months guaranteed.'",
+    "response": "Non-compliant. While the accreditation phrase is valid, the claim of guaranteed graduation is deceptive unless universally true and supported by data (General Advertising Rule 1). Guarantees must be qualified and substantiated."
+  },
+  {
+    "instruction": "Flag any issues with this statement: 'We offer financial aid to all students.'",
+    "response": "This statement is misleading. The policy requires that any mention of financial aid include a qualifier: 'financial aid is available to those who qualify' (General Advertising Rule 1f). Without this clarification, the ad implies universal aid eligibility, violating policy."
+  },
+  {
+    "instruction": "Evaluate whether this is compliant: 'Salon services available from student trainees \u2013 supervised learning environment.'",
+    "response": "Compliant. This language clearly identifies services as being provided by students, consistent with the requirement for student-training labeling (General Advertising Rule 2)."
+  },
+  {
+    "instruction": "Explain why this advertisement is problematic: 'Enroll now \u2013 our school is better than any local competitor!'",
+    "response": "This is non-compliant. Comparative advertising must not be misleading, deceptive, or unsubstantiated (General Advertising Rule 5). Without data to support the claim, it is potentially deceptive and violates the standard."
+  },
+  {
+    "instruction": "Check this promotional flyer: 'Now accepting students at 123 Salon \u2013 our newest accredited campus!'",
+    "response": "This is misleading if the new site is only a department or expanded facility and has not been separately accredited. The policy (Advertising of School Programs, 1) requires accurate status for each facility. The flyer must specify it as a department of the main campus if that is the case."
+  }
+]

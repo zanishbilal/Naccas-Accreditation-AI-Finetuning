@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "The institution does not have a formal written complaint policy but handles issues informally.",
+    "response": "Non-compliant. The policy must be written and identified as a complaint or grievance policy. (Requirement a)"
+  },
+  {
+    "instruction": "The school gives students a copy of the grievance policy during orientation.",
+    "response": "Compliant. Students must be informed of the policy at the beginning of the course or program. (Requirement b)"
+  },
+  {
+    "instruction": "The grievance policy states students should 'talk to someone' if there's a problem but does not outline a clear process.",
+    "response": "Non-compliant. The policy must clearly define the steps a student must take to file a formal grievance. (Requirement c)"
+  },
+  {
+    "instruction": "Students are required to request complaint forms from the office, which are not otherwise distributed.",
+    "response": "Non-compliant. Complaint forms must be made available to students. (Requirement d)"
+  },
+  {
+    "instruction": "The policy is described in the Institutional Self-Study submitted to NACCAS.",
+    "response": "Compliant. The policy must be described in the Institutional Self-Study and will be reviewed during site visits."
+  },
+  {
+    "instruction": "The school discards all complaint records after the grievance is resolved.",
+    "response": "Non-compliant. Complaint records and resolutions must be retained in accordance with the school's record keeping policy and available for NACCAS review."
+  },
+  {
+    "instruction": "The institution requires students to complete the school grievance process before filing a complaint with NACCAS.",
+    "response": "Non-compliant. Students cannot be required to exhaust the internal process if doing so violates applicable laws or regulations."
+  },
+  {
+    "instruction": "The policy is referred to as the 'student conflict protocol' but does not include the term 'grievance' or 'complaint.'",
+    "response": "Non-compliant. The policy must be clearly identified as a grievance or complaint policy."
+  },
+  {
+    "instruction": "The policy includes a step-by-step form and guidance adapted from the NACCAS Sample Forms.",
+    "response": "Compliant. Institutions may use NACCAS Sample Forms and Guidelines as a model to develop their policy."
+  },
+  {
+    "instruction": "The policy includes a multi-step process: written complaint, meeting with staff, documented resolution, and appeal process.",
+    "response": "Compliant. The policy must clearly define formal steps for grievance submission and resolution."
+  }
+]

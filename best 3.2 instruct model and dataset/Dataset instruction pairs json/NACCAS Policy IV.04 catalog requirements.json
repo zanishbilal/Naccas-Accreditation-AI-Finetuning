@@ -1,0 +1,126 @@
+[
+  {
+    "instruction": "A catalog is printed entirely in Spanish, but the program is taught in English. Is this compliant?",
+    "response": "Non-compliant. Per Section 1, the catalog must be written in the language in which the course or program is taught."
+  },
+  {
+    "instruction": "The catalog lists the school's name, address, and a publication date on the first page. Is this acceptable?",
+    "response": "Compliant. Sections 2 and 3 require the name and address of the institution and a date of publication."
+  },
+  {
+    "instruction": "Does this meet catalog standards? \"The catalog omits the institution's mission statement.\"",
+    "response": "Non-compliant. Section 4 requires the inclusion of the school's mission statement."
+  },
+  {
+    "instruction": "Review this catalog: \"Includes admission criteria and ATB policy but does not describe re-entry.\"",
+    "response": "Non-compliant. Sections 5 and 7 require information on admission requirements and whether re-entry is permitted."
+  },
+  {
+    "instruction": "The catalog includes transfer credit policies and re-entry conditions under its admissions section. Is this compliant?",
+    "response": "Compliant. Sections 6 and 7 require policies on transfer of training and re-enrollment to be disclosed."
+  },
+  {
+    "instruction": "Evaluate this catalog: \"Program outlines list course names and hours, but omit educational objectives.\"",
+    "response": "Non-compliant. Section 8(d) requires educational objectives for each program."
+  },
+  {
+    "instruction": "The catalog outlines program names, objectives, and grading policies but lacks instructional methods.",
+    "response": "Non-compliant. Section 8(f) requires a description of the instructional methods used to teach the program."
+  },
+  {
+    "instruction": "The grading system in the catalog only lists A, B, and C as grades. Is this sufficient?",
+    "response": "Non-compliant. Section 8(g) requires the full range of grades students may earn, consistent with the institution's Satisfactory Academic Progress policy."
+  },
+  {
+    "instruction": "Does this meet requirements? \"The catalog includes weekly schedule hours for both day and evening cohorts.\"",
+    "response": "Compliant. Section 9 requires disclosure of the number of hours per week for each schedule."
+  },
+  {
+    "instruction": "The catalog describes equipment used in each classroom and lab. Is this required?",
+    "response": "Compliant. Section 10 requires a description of facilities and equipment."
+  },
+  {
+    "instruction": "Review this catalog: \"Graduation requirements are listed for cosmetology but not for esthetics.\"",
+    "response": "Non-compliant. Section 11 requires graduation requirements to be listed for each course and/or program."
+  },
+  {
+    "instruction": "The catalog states that graduates receive a \"certificate of completion.\" Is this enough to meet standards?",
+    "response": "Compliant. Section 12 requires the type of credential awarded upon graduation to be clearly stated."
+  },
+  {
+    "instruction": "Does this meet standards? \"Refund policy in catalog cites NACCAS standards and state regulations.\"",
+    "response": "Compliant. Section 13 requires the refund policy to comply with NACCAS, state, and federal regulations."
+  },
+  {
+    "instruction": "Catalog includes job placement resources but says nothing about job guarantees.",
+    "response": "Compliant. Section 14 requires a clear statement that employment is not guaranteed, and a description of employment assistance."
+  },
+  {
+    "instruction": "The catalog lists program start dates but omits school holidays. Is this acceptable?",
+    "response": "Non-compliant. Section 15 requires a school calendar including start dates, holidays, and closures."
+  },
+  {
+    "instruction": "Evaluate this case: \"Catalog has no anti-discrimination statement.\"",
+    "response": "Non-compliant. Section 16 requires a statement that the institution does not discriminate based on sex, race, age, color, ethnic origin, or religion."
+  },
+  {
+    "instruction": "The catalog names the campus director but not the ownership group. Is this compliant?",
+    "response": "Non-compliant. Section 17 requires listing the owner(s) of the institution."
+  },
+  {
+    "instruction": "The catalog includes a policy allowing students to review their own files. Does this satisfy requirements?",
+    "response": "Compliant. Section 18 requires a policy guaranteeing student access to their records."
+  },
+  {
+    "instruction": "Evaluate: \"Catalog omits how student records may be released.\"",
+    "response": "Non-compliant. Section 19 requires the institution's policy on releasing information about individual students."
+  },
+  {
+    "instruction": "The catalog includes a section on scholarship eligibility and application requirements.",
+    "response": "Compliant. Section 20 requires disclosure of scholarship and fee waiver policies, if applicable."
+  },
+  {
+    "instruction": "Does this meet standards? \"Catalog lists career counseling but not housing services.\"",
+    "response": "Partially compliant. Section 21 requires description of all applicable services such as housing or counseling; omitting housing is acceptable if not offered."
+  },
+  {
+    "instruction": "The catalog lists the accrediting agency but omits the state licensing board. Is this compliant?",
+    "response": "Non-compliant. Section 22 requires names and contact info for both the state agency and the accrediting agency."
+  },
+  {
+    "instruction": "Catalog omits details about a temporary change in program length due to construction delays.",
+    "response": "Non-compliant. Section 23 requires any material facts that could affect a student's enrollment decision to be disclosed."
+  },
+  {
+    "instruction": "The institution publishes an addendum listing conduct policies, tardiness, and makeup work. The catalog's table of contents lists this addendum.",
+    "response": "Compliant. Section 24 allows this information on a dated insert, as long as the catalog references it clearly."
+  },
+  {
+    "instruction": "The catalog lists all faculty and staff members, including administrative positions. Is this required?",
+    "response": "Compliant. Section 25 requires a listing of administrative staff and faculty."
+  },
+  {
+    "instruction": "Catalog lists tuition and books but does not include payment terms.",
+    "response": "Non-compliant. Section 26(e) requires disclosure of the methods and terms of payment"
+  },
+  {
+    "instruction": "The catalog is used by four schools under common ownership, but this ownership is not disclosed. Is this compliant?",
+    "response": "Non-compliant. Section 27 requires that common ownership must be indicated if the catalog is shared by multiple institutions."
+  },
+  {
+    "instruction": "The catalog includes photos of school facilities, but there are no captions identifying which school each photo shows.",
+    "response": "Non-compliant. Section 28 requires that each facility photo must be captioned to identify the specific institution depicted."
+  },
+  {
+    "instruction": "Catalog includes a section listing corporate staff members who supervise multiple campuses. Is this required?",
+    "response": "Compliant. Section 29 requires identification of headquarters administrators with supervisory responsibility for the institutions."
+  },
+  {
+    "instruction": "Each institution in the shared catalog has its own program hours and refund policies, but they're grouped in a single section without clarification.",
+    "response": "Non-compliant. Section 30 requires any non-common content in the catalog to be clearly identified and separated by state, subject, and program, including policies and disclosures."
+  },
+  {
+    "instruction": "The catalog includes a list of all participating institutions along with their names and addresses.",
+    "response": "Compliant. Section 31 requires inclusion of the names and addresses of all institutions using the catalog"
+  }
+]

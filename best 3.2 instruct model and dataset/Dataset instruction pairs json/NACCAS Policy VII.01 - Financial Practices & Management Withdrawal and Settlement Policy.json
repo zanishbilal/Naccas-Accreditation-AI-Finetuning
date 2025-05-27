@@ -1,0 +1,102 @@
+[
+  {
+    "instruction": "The institution issues student refunds 60 days after withdrawal.",
+    "response": "Non-compliant. Refunds must be made within 45 calendar days of official or unofficial withdrawal."
+  },
+  {
+    "instruction": "A student is not accepted by the institution. The school keeps the full tuition payment.",
+    "response": "Non-compliant. The student is entitled to a full refund of all monies, minus a non-refundable application fee, if applicable."
+  },
+  {
+    "instruction": "A student cancels the enrollment agreement in writing within 3 business days of signing. The school refunds all monies except a $50 application fee.",
+    "response": "Compliant. A full refund is required except the non-refundable application fee if cancellation occurs within 3 business days."
+  },
+  {
+    "instruction": "The institution uses scheduled hours to calculate refund amounts and notes this in its policy.",
+    "response": "Compliant. Institutions must identify if refund calculations are based on actual or scheduled hours."
+  },
+  {
+    "instruction": "Refund policy applies only when a student withdraws voluntarily.",
+    "response": "Non-compliant. The policy must apply to all terminations, including student decision, school expulsion, program cancellation, or school closure."
+  },
+  {
+    "instruction": "A school's catalog uses legal language difficult for applicants to understand.",
+    "response": "Non-compliant. The refund policy must be stated in clear and easily understood language."
+  },
+  {
+    "instruction": "A student on leave of absence tells the school they won't return. The school uses the notification date as the withdrawal date.",
+    "response": "Compliant. Withdrawal is based on the earlier of the return date or when the student notifies the school."
+  },
+  {
+    "instruction": "A student is expelled from the program. The refund policy does not apply.",
+    "response": "Non-compliant. The refund policy must apply to all terminations, including expulsions."
+  },
+  {
+    "instruction": "A school monitors student attendance every 15 days to detect unofficial withdrawals for clock hour programs.",
+    "response": "Compliant. Schools must monitor attendance at least every 30 calendar days."
+  },
+  {
+    "instruction": "The institution does not issue a refund for students who unofficially withdraw from clock hour programs.",
+    "response": "Non-compliant. Refunds must be calculated based on the last date of attendance, and issued within 45 days."
+  },
+  {
+    "instruction": "A non-clock hour student stops completing assignments. The school monitors academic activity to determine withdrawal.",
+    "response": "Compliant. Unofficial withdrawals for non-clock hour students must be determined by monitoring academic participation."
+  },
+  {
+    "instruction": "A school charges a $250 termination fee.",
+    "response": "Non-compliant. The maximum termination fee allowed is $150."
+  },
+  {
+    "instruction": "A school's application fee is $90 and listed as non-refundable.",
+    "response": "Compliant. The non-refundable application fee must not exceed $100."
+  },
+  {
+    "instruction": "Refund policy identifies books and equipment as separate costs and marks which are non-refundable.",
+    "response": "Compliant. Extra costs must be clearly stated and identified as refundable or non-refundable."
+  },
+  {
+    "instruction": "A student completes 12% of the program. The school keeps 50% of the tuition.",
+    "response": "Non-compliant. According to the Minimum Tuition Adjustment Schedule, the school may retain only 40%."
+  },
+  {
+    "instruction": "The refund policy uses a flat rate for all students regardless of completion percentage.",
+    "response": "Non-compliant. The refund policy must follow the Minimum Tuition Adjustment Schedule."
+  },
+  {
+    "instruction": "A school closes permanently after instruction begins. It issues pro-rata refunds.",
+    "response": "Compliant. Schools may provide pro rata refunds or participate in a Teach-Out Agreement."
+  },
+  {
+    "instruction": "A school cancels a program before instruction starts and refunds all money.",
+    "response": "Compliant. Schools must either provide a full refund or completion of the program."
+  },
+  {
+    "instruction": "A school sells tuition contracts to a third party that does not honor the school's refund policy.",
+    "response": "Non-compliant. Third parties must comply with the institution's cancellation and settlement policy."
+  },
+  {
+    "instruction": "Collection letters make no mention of the school's Withdrawal and Settlement Policy.",
+    "response": "Non-compliant. All collection correspondence must acknowledge the existence of the Withdrawal and Settlement Policy."
+  },
+  {
+    "instruction": "A refund is issued 50 days after withdrawal.",
+    "response": "Non-compliant. Refunds must be issued within 45 calendar days."
+  },
+  {
+    "instruction": "The refund policy states that it complies with federal regulations.",
+    "response": "Compliant, if the school uses a mandated federal policy. Otherwise, it must follow the full NACCAS checklist."
+  },
+  {
+    "instruction": "Refunds are processed based on when the school receives a written withdrawal request.",
+    "response": "Compliant. The cancellation date is based on postmark or in-person delivery of the notification."
+  },
+  {
+    "instruction": "A school decides to issue more generous refunds than the minimum policy requires.",
+    "response": "Compliant. Schools are encouraged to adopt more liberal refund policies."
+  },
+  {
+    "instruction": "The name of NACCAS is listed in the school's collection efforts.",
+    "response": "Non-compliant. The name of NACCAS must not appear in refund or collection communications."
+  }
+]

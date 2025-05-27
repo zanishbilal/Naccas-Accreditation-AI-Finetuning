@@ -1,0 +1,82 @@
+[
+  {
+    "instruction": "Check if this ATB student\u2019s admission is compliant: \u201cPassed an industry-developed test before enrollment; score and administrator info recorded.\u201d",
+    "response": "Compliant. Section I(2)(a) allows admission if a nationally recognized, standardized, or industry-developed test is passed before admission. Recordkeeping per II(3) is also satisfied."
+  },
+  {
+    "instruction": "Evaluate this scenario: \u201cStudent completed 100 hours post-enrollment but has no diploma or test score.\u201d",
+    "response": "Non-compliant. Section I(2)(b) requires at least 225 clock hours for programs of 600+ hours to satisfy ATB eligibility post-enrollment."
+  },
+  {
+    "instruction": "Determine compliance: \u201cCatalog states the school does not admit ATB students.\u201d",
+    "response": "Compliant. Section II(2) requires a clear statement in the catalog if the school does not admit ATB students."
+  },
+  {
+    "instruction": "Assess compliance: \u201cStudent admitted under ATB policy; catalog does not mention ATB policy at all.\u201d",
+    "response": "Non-compliant. Section II(2) requires the school to publish its ATB policy in the catalog if such students are admitted."
+  },
+  {
+    "instruction": "Check this process: \u201cStudent admitted without a diploma, passed an approved test, but school discarded the test record after graduation.\u201d",
+    "response": "Non-compliant. Section II(3) mandates retention of records, including test scores and related data, for at least six years after program completion."
+  },
+  {
+    "instruction": "Review this case: \u201cAn applicant over compulsory education age is denied entry due to no high school diploma or GED, despite passing an ATB test.\u201d",
+    "response": "Potentially non-compliant. If the school admits ATB students, denial may violate Section I(2)(a). However, if the catalog states the school does not admit ATB students, it would be compliant."
+  },
+  {
+    "instruction": "Evaluate: \u201cStudent enrolled in a 300-hour program without diploma or ATB test.\u201d",
+    "response": "Non-compliant. For programs under 600 hours, ATB students must still meet admission requirements\u2014Section I(2)(b) only applies to programs 600 hours or more, so testing prior to admission is required."
+  },
+  {
+    "instruction": "Check this statement: \u201cCatalog mentions ATB policy but does not specify the type of tests accepted.\u201d",
+    "response": "Partially compliant. While a general statement satisfies the catalog requirement under II(2), schools should also document the test types internally and apply them consistently."
+  },
+  {
+    "instruction": "Assess: \u201cStudent completed 6 credit hours after enrollment but no counseling record is available.\u201d",
+    "response": "Non-compliant. Section II(3) requires retention of counseling records for all ATB students for six years after program completion."
+  },
+  {
+    "instruction": "Review for compliance: \u201cA test administrator\u2019s ID number is missing from the student\u2019s ATB file.\u201d",
+    "response": "Non-compliant. Section II(3) requires the institution to maintain test administrator information, including identifiers, as part of the official record."
+  },
+  {
+    "instruction": "Analyze this case: \u201cA school publishes its ATB policy in a flyer given during orientation but not in the catalog.\u201d",
+    "response": "Non-compliant. Section II(2) requires publication of the ATB policy in the school catalog. Flyers may supplement but not replace catalog publication."
+  },
+  {
+    "instruction": "Evaluate this file: \u201cStudent passed an ATB test and was admitted; school only retained a summary report, not the actual test results.\u201d",
+    "response": "Non-compliant. Section II(3) requires retention of complete test results and student scores, not just summaries."
+  },
+  {
+    "instruction": "Determine if this is compliant: \u201cSchool's catalog has a paste-over with updated ATB policy.\u201d",
+    "response": "Compliant. Section II(2) allows use of paste-overs or inserts until the next catalog republication."
+  },
+  {
+    "instruction": "Judge this process: \u201cStudent admitted on the basis of completing 225 clock hours, but the program is only 500 hours long.\u201d",
+    "response": "Non-compliant. Section I(2)(b) applies only to programs of 600 hours or more. For a 500-hour program, ATB testing is required before admission."
+  },
+  {
+    "instruction": "Evaluate this claim: \u201cThe school does not admit ATB students but has no statement about this in its catalog.\u201d",
+    "response": "Non-compliant. Section II(2) requires schools that do not admit ATB students to explicitly state so in their catalog."
+  },
+  {
+    "instruction": "Review: \u201cA school uses an unapproved local test to assess ATB eligibility.\u201d",
+    "response": "Non-compliant. Section I(2)(a) allows only nationally recognized, standardized, or industry-developed tests. Unapproved local tests do not qualify."
+  },
+  {
+    "instruction": "Determine the compliance status: \u201cA student\u2019s enrollment was approved after 6 credit hours, but their age is below the state\u2019s compulsory education threshold.\u201d",
+    "response": "Non-compliant. Per Section I(1), ATB students must be beyond the age of compulsory education, regardless of credits completed."
+  },
+  {
+    "instruction": "Analyze this case: \u201cSchool kept ATB records for four years before destruction.\u201d",
+    "response": "Non-compliant. Section II(3) mandates that ATB records be retained for at least six years post-completion."
+  },
+  {
+    "instruction": "Check this process: \u201cStudent admitted with ATB test taken at another institution; the test result was verified and archived.\u201d",
+    "response": "Compliant, assuming the test is valid and documentation per Section II(3) (including name of administrator, score, and records) is maintained."
+  },
+  {
+    "instruction": "Assess: \u201cStudent completes 6 credit hours, but the program is 1000 hours long and they failed to complete the remaining program.\u201d",
+    "response": "Compliant for admission under Section I(2)(b). While they didn\u2019t finish the full program, completing 6 credit hours post-enrollment satisfies ATB entry criteria."
+  }
+]
